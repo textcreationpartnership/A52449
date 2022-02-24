@@ -1,0 +1,281 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached before the King at New Market, October 8, 1671 by John North.</title>
+            <author>North, John, 1645-1683.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1671</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 36 KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A52449</idno>
+            <idno type="STC">Wing N1289</idno>
+            <idno type="STC">ESTC R27521</idno>
+            <idno type="EEBO-CITATION">09924873</idno>
+            <idno type="OCLC">ocm 09924873</idno>
+            <idno type="VID">44351</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A52449)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 44351)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1364:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached before the King at New Market, October 8, 1671 by John North.</title>
+                  <author>North, John, 1645-1683.</author>
+               </titleStmt>
+               <extent>32, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Hayes and are to be sold by Edw. Story,</publisher>
+                  <pubPlace>Cambridge [Cambridgeshire] :</pubPlace>
+                  <date>1671.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Printed by His Majesties special command."</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Sermons.</term>
+               <term>Bible. --  O.T. --  Psalms I, 1 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:44351:1"/>
+            <p>A SERMON Preached before the KING AT NEW MARKET <hi>October</hi> 8. 1671.</p>
+            <p>By the Honourable <hi>JOHN NORTH</hi> Fellow of <hi>Jeſus College</hi> in <hi>Cambridge.</hi>
+            </p>
+            <p>
+               <hi>Printed by his Majeſties ſpecial Command.</hi>
+            </p>
+            <p>
+               <hi>CAMBRIDGE,</hi> Printed by <hi>John Hayes,</hi> Printer to the Univerſity, 1671. And are to be ſold by <hi>Edw. Story</hi> Bookſeller in <hi>Cambridge.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:44351:2"/>
+            <pb n="1" facs="tcp:44351:2" rendition="simple:additions"/>
+            <head>
+               <q>
+                  <bibl>Pſalm the 1. verſe the 1.</bibl> Bleſſed is the man that walketh not in the Counſel of the ungodly, nor standeth in the way of ſinners, nor ſitteth in the ſeat of the ſcornful.</q>
+            </head>
+            <p>
+               <seg rend="decorInit">W</seg>E need not wonder that vice ſhould engroſs a great par<g ref="char:EOLhyphen"/>cel of the world, if we con<g ref="char:EOLhyphen"/>ſider that we are all endow<g ref="char:EOLhyphen"/>ed with a freedom of will, which may eaſily be perverted by the flat<g ref="char:EOLhyphen"/>tering enjoyment that an unlawful action does preſent. It has been already, and will always be the conſtant humour of every Ge<g ref="char:EOLhyphen"/>neration that paſſes, to complain of its <hi>own Times</hi> as the <hi>latter Dayes,</hi> as the <hi>dregs of an Iron Age</hi> which by a vaſt diſproportion has outlaſted the other three of a purer metal.
+<pb n="2" facs="tcp:44351:3"/>
+But the more deplorable things are, the high<g ref="char:EOLhyphen"/>er care we ſhould employ to keep our ſelves unſpotted from the general ſtain; that we may neither be allured by pleaſure, nor in<g ref="char:EOLhyphen"/>vited by an evil and numerous example; which as it is ever dangerous, ſo chiefly, when men are not content to be wicked, un<g ref="char:EOLhyphen"/>leſs they offer to juſtify it too. Heretofore, though they engaged in courſes full as bad, yet they did not throw off all ſence of Reli<g ref="char:EOLhyphen"/>gion: they retained ſtill their eſteem of goodneſs, confeſſed their infirmity, and ſometimes intermingled fits of a ſevere Re<g ref="char:EOLhyphen"/>pentance; ſo that it might admit of a fa<g ref="char:EOLhyphen"/>vourable conſtruction, to proceed rather from a ſtrong and unreclaimed temper then a deliberate intent. But now many abroad embrace Immorality as a profeſsion; tranſ<g ref="char:EOLhyphen"/>act it in the face of the world without the leaſt remorſe; ſtudy the higheſt provocati<g ref="char:EOLhyphen"/>on; boaſt of their horrid attempts; pro<g ref="char:EOLhyphen"/>claim as a matter of Glory, to what a <hi>streſs</hi> of impiety, to what a <hi>Violence</hi> of ſin, their mind does ſubmit and their body will en<g ref="char:EOLhyphen"/>dure.
+<pb n="3" facs="tcp:44351:3" rendition="simple:additions"/>
+'Tis their <hi>Counſel,</hi> as the Pſalmiſt calls it, that which they purſue upon the matureſt thoughts: 'Tis their <hi>way,</hi> the path they are reſolved to tread. Nor are they looſer in their lives then in their Principles and Diſ<g ref="char:EOLhyphen"/>courſe. They would hide a naughty pra<g ref="char:EOLhyphen"/>ctice by the unſettledneſs of their mind: They would vanquiſh <hi>fear</hi> altogether, that it might not ſteal in upon them, when their head is heavy or their ſpirits are exhauſted: And ſo, they ſeat themſelves in the <hi>Chair of the ſcornful:</hi> turn Religion into a jeſt: play with ſacred things: uſe the inſpired Vo<g ref="char:EOLhyphen"/>lume as a Topick, from whence they raiſe their unſavoury wit: They brandiſh ſome pitiful objections againſt Religion, which have been confuted a thouſand times: they liſt themſelves under ſome Champion or other, who has been reported to eſpouſe their cauſe: his arguments they manage: his Phraſes they cite, though they underſtand them not.</p>
+            <p>Now although the expoſing of their raſh<g ref="char:EOLhyphen"/>neſs may ſeem a ſubject improper for an Au<g ref="char:EOLhyphen"/>ditory,
+<pb n="4" facs="tcp:44351:4"/>
+that expreſſes ſo much devotion as to fill theſe ſacred places; yet ſince 'tis the frailty of our nature to regard leſs the prof<g ref="char:EOLhyphen"/>fer of happineſs then a repreſentation of danger; I cannot better confirm the Vertu<g ref="char:EOLhyphen"/>ous in the excellent choice they have made, then by diſparaging the contrary vices: this being the very manner our Pſalmiſt takes of deſcribing the godly. I ſhall therefore for the entertainment here, endeavour to ſhew the miſchief to which that <hi>Counſel</hi> betrays, the diſmal manſion to which <hi>that way</hi> does lead, and what a vain ſecurity the deceitful <hi>Chair of the ſcornful</hi> does afford; which for the clearer Method I ſhall diſtinguiſh into theſe two Parts, levelling the one againſt a <hi>diſſolute,</hi> the other againſt a <hi>profane</hi> kind of life: And intending to demonſtrate, how inconſiſtent <hi>they both</hi> are with the leaſt pre<g ref="char:EOLhyphen"/>tence to Religion, how unſatisfactory in reſpect to an ordinary prudence, and how unable to promote the deſign for which they are followed.</p>
+            <pb n="5" facs="tcp:44351:4" rendition="simple:additions"/>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="I"/> As for the former of theſe, I muſt in the firſt place offer to your ſerious Reflexi<g ref="char:EOLhyphen"/>on, that as ſure as another ſtate ſucceeds this here on earth, ſo certainly a debauched perſon will miſcarry. Amongſt the many ſubdivided Parties which diſcompoſe our Chriſtian Profeſsion, we ſhall find this ac<g ref="char:EOLhyphen"/>knowledged on every hand: what ever ſort of Opiniators we admire, among whom<g ref="char:EOLhyphen"/>ſoever we enroll our Name, there prevails an obligation to a Virtuous life. Though we diſagree in the means how it is attained; though we diſpute how far it ſufficeth, yet every ſide grants the Neceſsity, and that without it no entrance can be procured into Heaven. It is this, by which each novel Sect gains Proſelytes: by which every ſink<g ref="char:EOLhyphen"/>ing faction ſupports its credit, whilſt by a ſtrict obſervance of what is equally enforced by all, they draw the ſimple into their re<g ref="char:EOLhyphen"/>mote and more dangerous Tenets. If we travel beyond Chriſtendome and ſearch in<g ref="char:EOLhyphen"/>to the cuſtomes of thoſe who do either now or have of old pretended to another Reve<g ref="char:EOLhyphen"/>lation;
+<pb n="6" facs="tcp:44351:5"/>
+as many countries as we ſurvey, ſo many concurring ſuffrages we may gather up. None ever exerciſed a Religion, who did not place in ſobriety the moſt proper Service: None ever owned a life hereafter, who did not by that determine the happy or miſerable condition there. Nay though a fooliſh ſuſpicion ſhould ariſe within our breaſt concerning the truth of a particular Diſpenſation; yet this other engagement we could never remove, as that which Na<g ref="char:EOLhyphen"/>ture her ſelf has implanted in us, as that which conſtitutes a part of our Reaſon as much as any Notice or Axiome in ſpecula<g ref="char:EOLhyphen"/>tive Learning. We frame as evident a con<g ref="char:EOLhyphen"/>ception of <hi>good</hi> and <hi>evil,</hi> as of <hi>like</hi> or <hi>unlike, ſimple</hi> or <hi>compound;</hi> and are as fully perſwa<g ref="char:EOLhyphen"/>ded that we muſt avoid the <hi>one</hi> and purſue the <hi>other,</hi> as that <hi>the whole does exceed the part:</hi> both advanced beyond further proof. And ſince none but the Founder of the Univerſe can have imbued us with ſuch intimations, we muſt eſteem them as his eternal Law; to which if the recompence always annexed
+<pb n="7" facs="tcp:44351:5" rendition="simple:additions"/>
+be not evenly diſtributed here, it muſt wait for us in another place. Nor as to theſe du<g ref="char:EOLhyphen"/>ties of our Natural light, can any plead the leaſt colour of an excuſe. They are not in<g ref="char:EOLhyphen"/>volved in a forreign tongue, not purchaſed from beyond the ſeas, or tranſmitted by an uncertain Tradition: but what he reads in a large and lively Character within himſelf; by which alone it pleaſed God to govern far the greateſt part of the Earth till our Savi<g ref="char:EOLhyphen"/>ours time: and when he did impart a new diſcovery, it ſeemed chiefly to aim at the re<g ref="char:EOLhyphen"/>newal of this Image, which ſuperſtition had defaced. For though he impoſed thoſe minute Ceremonies with ſo ſevere a charge upon the Jews; yet when not offered up to<g ref="char:EOLhyphen"/>gether with a moral Virtue, he throws them back with the greateſt diſdain, as if he had ne<g ref="char:EOLhyphen"/>ver enjoyned them.</p>
+            <p>To urge then the inference: How ſtupen<g ref="char:EOLhyphen"/>dious a piece of folly does the Diſſolute commit, who neglects what is commended by an Univerſal conſent? who ſtifly adheres to a certain ſect of Opinions, who fondly
+<pb n="8" facs="tcp:44351:6"/>
+obſerves the little Punctilio's that diſcrimi<g ref="char:EOLhyphen"/>nate his Party, and ſtill omits what is al<g ref="char:EOLhyphen"/>lowed by all. If we ſhould perchance err in other things, ſo as it flowes not from a peeviſh and contradicting ſpirit, or is con<g ref="char:EOLhyphen"/>tracted by an almoſt invincible Ignorance, we know not how far the throne of Heaven may diſpence: But what tolerable evaſion can he invent, who lives directly oppoſite to what his reaſon preſcribes, to what all Re<g ref="char:EOLhyphen"/>velation adds a freſh command, and which has been the onely point preſerved entire from the leaſt diſpute? He is not onely in<g ref="char:EOLhyphen"/>volved in the fortune of his own Sect, not onely in danger from the falſeneſs of his own Religion: but whatever proves true, if there be at all any judgement hereafter, the ſentence of Condemnation muſt paſs upon him. So that we may juſtly conclude, ſuch Deſperadoes as theſe do it out of a confi<g ref="char:EOLhyphen"/>dence that there is no Religion; to whom in the ſecond place I addreſs my ſelf.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="II"/> They hope to avoid the Cenſure for their debauchery by caſting it on their Prin<g ref="char:EOLhyphen"/>ciples;
+<pb n="9" facs="tcp:44351:6" rendition="simple:additions"/>
+becauſe men, they think, will not ſo much condemn their lives as the ſource from whence it riſes, their horrid unbelief: for which they rather aſſume a pride, as if they had a greater ſagacity then their neigh<g ref="char:EOLhyphen"/>bours, that they are not deluded with the common Impoſture, which has ſo long a<g ref="char:EOLhyphen"/>buſed the world. But may we not ſuſpect they proceed in a more prepoſterous way? Do they not firſt raſhly overwhelm them<g ref="char:EOLhyphen"/>ſelves in vice, and then allay their fears by ſuch a perſwaſion? do they not firſt diſcard a good Conſcience, and then <hi>make ſhipwrack concerning the Faith,</hi> in Saint <hi>Paul's</hi> language? then ſhake off Religion when 'tis their In<g ref="char:EOLhyphen"/>tereſt there ſhould be none? leſt any relent<g ref="char:EOLhyphen"/>ing thoughts ſhould diſturb their ſober and melancholly intervals, whilſt their body weakned by a former ſin recovers ſtrength enough to perpetrate another. What clear<g ref="char:EOLhyphen"/>er argument can we have of this then when we ſee young Boys loſt in wickedneſs be<g ref="char:EOLhyphen"/>fore they attain to years of diſcretion: who give the firſt inſtance of their apprehenſion
+<pb n="10" facs="tcp:44351:7"/>
+in naughtineſs, and by a corruption of mind imbibed through the example of others, draw on a Maturity ſooner then Nature ever in<g ref="char:EOLhyphen"/>tended. And really we may in the general obſerve, that moſt tainted with this infidelity have conſumed their earlier years in luxury: ſo that they entred on it before their judge<g ref="char:EOLhyphen"/>ment was ripe, and have not ſpared any lei<g ref="char:EOLhyphen"/>ſure ſince from their enjoyments. And can we imagine theſe have fully diſcuſſed the merits of the cauſe? or are they indeed fit to decide the queſtion concerning Religion? Can they have weighed every demonſtrati<g ref="char:EOLhyphen"/>on? or examined each conſequence? If we would preſume to debate it, we muſt firſt furniſh our heads with all parts of Learn<g ref="char:EOLhyphen"/>ing; A huge acuteneſs in Philoſophy, a vaſt reading in Hiſtory and Philology muſt con<g ref="char:EOLhyphen"/>ſpire in ſuch an enterpriſe, the preparing of which would take up the largeſt portion of our time.</p>
+            <p>How ſilly a raſhneſs does it then import to fix an haſty Concluſion; which one would avoid even where no other miſchief
+<pb n="11" facs="tcp:44351:7" rendition="simple:additions"/>
+could follow but a bare miſtake? And how much more to build on ſo weak a Founda<g ref="char:EOLhyphen"/>tion, a reſolution of life, on which depends an Eternal concern? It is therefore the hope of a freedome from Rule, of a ſecurity from a troubled Conſcience that diminiſhes the Faith. Experience atteſts how much in bu<g ref="char:EOLhyphen"/>ſineſs of leſſer moment, our advantage go<g ref="char:EOLhyphen"/>verns our Belief; how readily we fancy, what we deſire ſhould be. And beſides, in our preſent caſe vve lie more open to an eaſy abuſe, vvhen vve have abated the vigour of our Parts by a continual diſtemper. Let them ſhevv by a ſober deportment, that they hugg not thoſe deſperate maximes for their profit; and then I queſtion not, they vvill relliſh ſounder things.</p>
+            <p>Hovvever all this ſtudy to cheat our ſelves vvill avail nothing; perhaps the heat of youth, the briskneſs of ſpirit, and conſtant diverſion of our mind by ſome diſorder or other may ſtifle, may lull aſleep our Reaſon, may induce a kind of ſtupidity: But vvhen either ſickneſs ſhall interrupt or age quite a<g ref="char:EOLhyphen"/>boliſh
+<pb n="12" facs="tcp:44351:8"/>
+our pleaſures, how then ſhall we ſe<g ref="char:EOLhyphen"/>cure our amazing thoughts? The advan<g ref="char:EOLhyphen"/>tage which beguiled us before, will ceaſe, and our judgement return to its former quickneſs: we ſhall ſee the inconvenience of a precipitated ſentence: we ſhall ſadly perceive upon how prejudiced a ground we proceeded before: we ſhall underſtand the certainty of that, which with ſuch confidence we lately derided; and to that ſence will be joyned the affrighting horrour of a miſ<g ref="char:EOLhyphen"/>pended life. This has been the fate of all the aſſociates, the Copartners in unbelief, if they have ever reached the <note n="*" place="margin">
+                  <hi>Plato</hi> does thus incomparably beſpeak the young Atheiſt, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> years of a declining age, or did not expire their laſt in a Duel or a drunken fit. Though they dared heaven before, though they invented affronts to Religion, and thought themſelves
+<pb n="13" facs="tcp:44351:8" rendition="simple:additions"/>
+fortified againſt the ſtrongeſt impreſsion, yet upon a languiſhing bed or the appre<g ref="char:EOLhyphen"/>henſion of an imminent danger, they have altered their mind, revoked their ſentiments, and declared their change to the whole world. I need not heap up inſtances with which all Hiſtory <note place="margin">
+                  <hi>Bion</hi> the Atheiſt falling ſick, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. And therefore <hi>Laertius</hi> prettily plays upon him with his Poetry.</note> does abound; but rather preſs we would not buy conſternation and repentance at ſo dear a rate: that we would not nouriſh an incredulous humour, till at laſt it recedes of its ſelf, and leaves behind the piercing ſence of our unavoidable ruine.</p>
+            <p>But that I may beat them out of their ut<g ref="char:EOLhyphen"/>moſt Refuge; Suppoſe we ſhould for once and in a frollick allow them as ſtrong an evidence as they deſire: ſuppoſe we ſhould grant <hi>ten</hi> nay <hi>an hundred to one</hi> on their ſide againſt Religion, which is more then their boldeſt patrons ever aſſumed, who could never drive it higher then an even ballance,
+<pb n="14" facs="tcp:44351:9"/>
+or a faint poſsibility there might perhaps be none. Notwithſtanding theſe unreaſon<g ref="char:EOLhyphen"/>able odds, the lying under an Eternal tor<g ref="char:EOLhyphen"/>ment is of ſo hideous a Nature, as a pru<g ref="char:EOLhyphen"/>dent man would not venture it, though pla<g ref="char:EOLhyphen"/>ced in the remoteſt degree of chance. What though an hundred things may happen as ſoon? yet ſince we are utterly undone for ever if it ſhould fall out: ſince we muſt be wrapt up in immortal flames, who would fooliſhly run the hazard. Eſpe<g ref="char:EOLhyphen"/>cially conſidering how little is loſt; though we ſhould cleanſe our hands in vain: though we ſhould reſtrain our exor<g ref="char:EOLhyphen"/>bitant paſsions for nothing: or to no pur<g ref="char:EOLhyphen"/>poſe paſs over the few years of our race in a Vertuous carriage. And then having beha<g ref="char:EOLhyphen"/>ved our ſelves well, with what chearſulneſs ſhall we reſign our breath at laſt in that ſay<g ref="char:EOLhyphen"/>ing of <hi>Socrates,</hi> which indeed he ſpoke not ſo much out of diſtruſt, as an affectation of<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Plat. Phoed.</note>
+               <pb n="15" facs="tcp:44351:9" rendition="simple:additions"/>
+doubting every thing, <hi>If there be another state after this; I have a title to Happineſs: If none, I cannot be Miſerable.</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, &amp;c. Platon. Apol.</note>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="III"/> Thirdly, a diſordered life muſt fall under the greateſt imprudence without any reſpect to Religion at all. For though we had a demonſtrative aſſurance, though none had ever dreamed of ſuch a thing as Devotion: yet debauchery cannot correſpond with an ordinary policy. For if this life onely ſup<g ref="char:EOLhyphen"/>ports us in a being, if no better Part ſur<g ref="char:EOLhyphen"/>vives, but all ſinks into the duſt together vvith the body; vve ſhould certainly apply the moſt ſedulous care for the preſervance of this Frame. Nature has ingrafted into our very contexture an indelible deſire of continuance; ſo that if vve renounce all other hopes, it ſhould prompt us to a more paſsionate ſolicitude for prolonging our Re<g ref="char:EOLhyphen"/>ſidence here. Novv I appeal to the mean<g ref="char:EOLhyphen"/>eſt
+<pb n="16" facs="tcp:44351:10"/>
+judgement, vvhether the various ſorts of intemperance do not corrupt the habit of our Health, accelerate our decay, and haſten our diſſolution. For if they bring not a raging Feaver at preſent, or a vvorſe Conta<g ref="char:EOLhyphen"/>gion, they treaſure up matter for the grovvth of more laſting Diſeaſes hereafter. The greater violence vve expoſe our bodies to, muſt by the Lavvs of Philoſophy be reven<g ref="char:EOLhyphen"/>ged upon us in a ſhorter duration. Not to mention the dangerous quarrels, vvhich a diſtempered brain or an amorous heat may engage us in: or hovv vve ſpoil the Race of manking, vvhilſt vve convey dovvn to our unfortunate poſterity a crazy and infected conſtitution.</p>
+            <p>Religion it ſelf propoſes the contrary Vertues upon this ſcore alone as neceſſa<g ref="char:EOLhyphen"/>ry to the ſuſtaining of our bodies. The Eternal and immutable reaſon is, that vve are bound to preſerve our ſelves in that ſtate of Beings vvherein vve are placed, till it pleaſes God to diſmiſs us: a notion vvhich flouriſhed among the Gentiles.
+<pb n="17" facs="tcp:44351:10" rendition="simple:additions"/>
+Now the particular management requiſite to this ſelf<g ref="char:EOLhyphen"/>preſervation, depends on the peculiar Frame with which every order of Beings is clothed, and ſo may varie accord<g ref="char:EOLhyphen"/>ing to the ſeveral Claſſes of them: But to the fabrick of our humane Nature conduces moſt ſobriety, temperance and the reſt; which carry no Eſſential goodneſs in them<g ref="char:EOLhyphen"/>ſelves, becauſe not conſiſting even amongſt us in the ſame minute proportion; but one<g ref="char:EOLhyphen"/>ly as they advance in us the Univerſal end, which all Beings according to their ſeveral capacities muſt promote.</p>
+            <p>Nay further, <hi>Epicurus</hi> the grand Maſter of irreligion ſtands on our ſide. He turned the gods out of his infinite worlds, excluded their providence, and acknowledged nothing higher or finer then Matter; ſo that we have all the Reaſon to believe he would onely conſult his own Intereſt. He indeed roundly proclaims it our beſt and nobleſt deſign to gratifie our ſence, and thought the moſt <hi>ſot<g ref="char:EOLhyphen"/>tiſh and beaſtly pleaſure</hi> agreeable enough in its ſelf to that purpoſe: But then holding,
+<pb n="18" facs="tcp:44351:11"/>
+that we muſt ſeverely weigh all Circum<g ref="char:EOLhyphen"/>ſtances, and embrace onely thoſe delights which betray not to a further inconveni<g ref="char:EOLhyphen"/>ence; and even admit that horrid thing pain when it opens the paſſage to a clearer happi<g ref="char:EOLhyphen"/>neſs; he at laſt<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> pronounces that<note place="margin">Epic. Epiſt. ad Pythoc.</note> the onely <hi>entire, un<g ref="char:EOLhyphen"/>mixed</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> 
+               <hi>and compleat pleaſure</hi> lies in the<note place="margin">Ibid.</note> Rules which we call by the name of Vertue. And to this he exactly compoſed his life, whence <hi>Cicero</hi> ſayes of him, <hi>we question not</hi> Epicurus<note place="margin">Itaque, ut ſaepe dixi, de acumine ejus agi<g ref="char:EOLhyphen"/>tur non de inoribus: quamvis ſpernat volup<g ref="char:EOLhyphen"/>tates eas quas modò laudavit. <hi>Tuſ. Quaeſ. l.</hi> 3.</note> 
+               <hi>his manners, but his un<g ref="char:EOLhyphen"/>derſtanding; becauſe he</hi>
+               <note place="margin">
+                  <hi>Epictetus</hi> apud <hi>Ar<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ia<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. l.</hi> 3. c. 7.</note> 
+               <hi>declines thoſe very plea<g ref="char:EOLhyphen"/>ſures he praiſes ſo much.</hi> So that there is no ground imaginable left for Luxury.</p>
+            <p>But if any one ſenſible of this, does after that example lead a life ſtrict enough, and yet harbours infidelity in his heart; I would repreſent to him, that ſeeing it is the ſame pains to follow Vertue out of a politick con<g ref="char:EOLhyphen"/>ſideration
+<pb n="19" facs="tcp:44351:11" rendition="simple:additions"/>
+as it is upon a more generous ac<g ref="char:EOLhyphen"/>count, what a <hi>huge</hi> and <hi>monſtrous folly</hi> muſt it be to diſclaim the hopes or venture the ſucceſs in another world. The trouble is the ſame in practice: the difference lies in the choice of the End, which is onely a bare perſwaſion.</p>
+            <p>I deſcend now to the other Branch of my diſcourſe which ſtrikes againſt profaneneſs. And this I muſt accuſe firſt, <milestone type="tcpmilestone" unit="unspecified" n="I"/> as the moſt re<g ref="char:EOLhyphen"/>pugnant in the world to the Genius, the moſt contrary to the ſpirit which the leaſt grain of goodneſs or ſence of Religion does induce. For when we conſider a ſupreme Being placed above us, adorned with all excellency, and inveſted with a compleat happineſs, there ſprings naturally within our mind an <hi>honour</hi> for him; which conſi<g ref="char:EOLhyphen"/>deration alone <hi>Epicurus</hi> thought Argument ſtrong enough for a Divine worſhip. But then further recollecting that he raiſed the ſtately fabrick of the Univerſe, that he im<g ref="char:EOLhyphen"/>parted to us our exiſtence and can with
+<pb n="20" facs="tcp:44351:12"/>
+the ſame breath recall it again, or, which is worſe, continue it in an everlaſting miſery; as well our gratitude as our fear muſt ex<g ref="char:EOLhyphen"/>cite in us the higheſt degree of Reverence. This is the primary notion of Religion, upon which all other <hi>ſacred Offices</hi> are founded.</p>
+            <p>Now <hi>Honour</hi> and <hi>Reverence</hi> conſiſt onely in a ſeparation from vulgar uſage, in ſetting a greater value upon, in retaining more ve<g ref="char:EOLhyphen"/>neration for one then we commonly do for others. And when applied to a Perſon, we expreſs the ſigns of it by a ſerious mentioning his name with ſome adjunct of praiſe, by putting a reſtraint upon our ſelves in his preſence, by keeping our diſtance, by ad<g ref="char:EOLhyphen"/>dreſsing to him in a ſolemn manner: all which are different from our ordinary beha<g ref="char:EOLhyphen"/>viour among thoſe of our own quality. When aſcribed to a thing, we ſhew our re<g ref="char:EOLhyphen"/>ſpect by a removal from a Trivial uſe, by de<g ref="char:EOLhyphen"/>dicating it wholly to ſome peculiar ſervice; which indeed we do for the relation it bears to the Perſon we honour: for as we teſtifie
+<pb n="21" facs="tcp:44351:12" rendition="simple:additions"/>
+our eſteem of a Grandee by making a pre<g ref="char:EOLhyphen"/>ſent; ſo we offer to God himſelf what we re<g ref="char:EOLhyphen"/>ſerve onely for an Holy employment.</p>
+            <p>What then ſhall we think of the profane who lays theſe encloſures open? who di<g ref="char:EOLhyphen"/>ſtinguiſhes not between Sacred and Com<g ref="char:EOLhyphen"/>mon? A wicked life may diſgrace Religion, an Athieſt may ſlyly ſuggeſt there is none; but then we really, then we actually abro<g ref="char:EOLhyphen"/>gate it, when we diſanul thoſe ſigns, in which the publick Profeſsion of it is ſeat<g ref="char:EOLhyphen"/>ed. Nothing more free, more careleſs then our uſual talk; nothing more idle then the diſcourſe we ſpend over our cups: How much then do we undervalue our Eternal Creator, when we mix his Name with ſuch impertinent trifling? How can we debaſe or proſtitute it more, then when we ſea<g ref="char:EOLhyphen"/>ſon our Phraſe with it, when we rudely interpoſe it almoſt between every word, when it ſlips ſo often out of our mouths as we diſcern it not our ſelves? But how much higher does the ſcorner fly, who is not con<g ref="char:EOLhyphen"/>tent to caſt off his reſpect, unleſs he derides
+<pb n="22" facs="tcp:44351:13"/>
+what he ſhould adore? who will put an in<g ref="char:EOLhyphen"/>dignity upon God himſelf, rather then looſe a jeſt? whom the innumerable ldiotiſms and Proverbs of our tongue, ſuffice not to daſh one againſt the other in his little pretences to wit, unleſs he plays with and upon the ho<g ref="char:EOLhyphen"/>ly Scripture?</p>
+            <p>I would fain imprint upon our mind a juſt horrour of thisnotorious Sin. Let us recall therefore into our memory, what a ſeriouſneſs poſſeſſes us in the <hi>Royal preſence:</hi> what a guard we ſet upon our thoughts: what a ſilence we impoſe upon our tongue, or elſe with what care we deliver e<g ref="char:EOLhyphen"/>very ſyllable; let us conſider with what modeſty we appear in the company of a great Perſonage: with what troubleſome formality we demean our ſelves. In our converſe we are familiar with none but whom we eſteem no better then our ſelves: at leaſt we reckon we are then acquainted, then intimate with our friends when we dare ſpeak any thing before them; eſpeci<g ref="char:EOLhyphen"/>ally we venture to break our conceits, onely
+<pb n="23" facs="tcp:44351:13" rendition="simple:additions"/>
+on the inferiours to our own rank: ſome Phi<g ref="char:EOLhyphen"/>loſophers have imagined, all laughter ſprings from contempt; and that is the main deſign of abuſive wit. None will offer to do it but towards them they deſpiſe: None will endure it but people of a poor, little and ſla<g ref="char:EOLhyphen"/>viſh temper, whom rich men and haughty entertain among their dependants for the ſame purpoſe. The profane then preſu<g ref="char:EOLhyphen"/>ming ſo far with God Almighty, do invade Heaven and ſeat themſelves by his Throne; 'tis as much as if they declared themſelves as <hi>Good</hi> as he: vvhen they treat him like one of their <hi>Dear Companions</hi> 'tis a ſign they ac<g ref="char:EOLhyphen"/>knowledge as little diſtance. Nay what I tremble to ſpeak, they aſpire to a degree a<g ref="char:EOLhyphen"/>bove him, while they make him and what is appropriated to his Service the ſubject of their abominable mirth.</p>
+            <p>And how do we expect God ſhould reſent this, vvho has alvvays ſeemed moſt jealous of his honour, and vvhenever he takes upon him a Title of ſeverity, 'tis for a juſt vindi<g ref="char:EOLhyphen"/>cation of that. One of the bittereſt circum<g ref="char:EOLhyphen"/>ſtances
+<pb n="24" facs="tcp:44351:14"/>
+that attended our Saviours paſsion lay in the <hi>mockery</hi> vvhich the Souldiers heap<g ref="char:EOLhyphen"/>ed upon Him; and therefore omitted by none of the Evangeliſts. They dreſſed him up in Royal robes that they might make the better ſport: they covered his Sacred eyes, that he might by Inſpiration tell 'em vvho had preſumed to ſtrike him. Among theſe Curſed vvretches muſt the profane be numbred, and vvill at laſt be joyned in the ſame extremity of torture. God has been alvvays obſerved to reſiſt the proud, and ſure he vvill vvith greater fury oppoſe thoſe that vvould raiſe themſelves by a depreſsion of Him; ſo that if Hell contains any place hotter then other: if <hi>Lucifers</hi> apartment be more intolerable then the reſt, theſe vvill be lodged there, vvho certainly have arrived to the very height of vvick<g ref="char:EOLhyphen"/>edneſs.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="II"/> Secondly, Profaneneſs muſt be account<g ref="char:EOLhyphen"/>ed a vanity vvhich ſetting aſide Religion is the heavieſt charge vve can alledge. They may vvell excuſe themſelves by their infide<g ref="char:EOLhyphen"/>lity
+<pb n="25" facs="tcp:44351:14" rendition="simple:additions"/>
+vvhich if compared vvith this, ſinks into a leſſer crime. But then to vvhat pur<g ref="char:EOLhyphen"/>poſe do they ſo often repeat the Holy Name if it ſignifies nothing? if it denote onely a fiction, vvhy do they fill their mouths vvith an empty vvord? They may as vvell clap any incoherent ſyllables together, and faſhion one no Language ever ovvned, and rattle it out twice or thrice between every ſentence. If the ſound onely pleaſes, I fan<g ref="char:EOLhyphen"/>cy they might coin another of a more grace<g ref="char:EOLhyphen"/>ful noiſe. They make the ſame uſe of Oaths and imprecations that others do, whilſt they confirm every promiſe, back each aſſeveration, enforce every threat, with three or four of them. If then there be no Religion, why do they beat the Air with what implies nothing? None gives a<g ref="char:EOLhyphen"/>ny more credit to them, though they damn themſelves a thouſand times, then as if they had rapt out ſo much <hi>Arabick.</hi> And what valour is it to ſcoff at the Religion they have already diſclaimed? They may as well vent their wit againſt <hi>Jupiter
+<pb n="26" facs="tcp:44351:15"/>
+and Juno</hi> and the reſt of the heathen The<g ref="char:EOLhyphen"/>ology.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="III"/> Thirdly, to be profane is an inſtance of the greateſt rudeneſs that can be committed in a civil converſe. And we may juſtly complain that men eſpouſe <hi>an ill ſort of ir<g ref="char:EOLhyphen"/>religion,</hi> and upon ſuch baſe Principles, as deſtroy all good Nature and affection, which even Atheiſm naked in its ſelf does not extinguiſh. For thoſe of old pervert<g ref="char:EOLhyphen"/>ed have ſtill maintained an Univerſal love, an obliging way of demeanour, a Moral honeſty, if not upon better grounds yet at leaſt in reſpect to the neceſsity of Govern<g ref="char:EOLhyphen"/>ment: ſo that the age under <hi>Auguſtus</hi> which ſome remark as moſt infected with this diſ<g ref="char:EOLhyphen"/>eaſe, enjoyed a more calm and ſedate time then commonly happens. But now men are led into an Apoſtacy by believing that we are all born mortal enemies one to the other: that each has a deſign of uſurping a Power over the reſt: that its onely a little policy that cements us together, which may without blame be broken upon a proſpect
+<pb n="27" facs="tcp:44351:15" rendition="simple:additions"/>
+of our Emolument: that there is no tie of gratitude: and that ſucceſs gives a right to whatever we attempt.</p>
+            <p>The miſchief of all which is that it teaches men to be ſo indeed: And therefore we may be confident the greateſt pleaſure the profane take, is to vex and grieve the ſpirits of ſober people; for commonly they run out the more before them whoſe Vertue or Profeſsion obliges to be moſt offended at it. And what ſavours more an inhumane ruſtick and clowniſh temper? What, though any of them are ſo unhappy as to think Religion ridiculous and to make it ſo by their foolery? yet ſince ſo many thouſands among whom they live, have the tendereſt regard for it, <hi>in civility</hi> they ought to ab<g ref="char:EOLhyphen"/>ſtain. Is it <hi>good manners</hi> to inveigh againſt any Perſon in the preſence of one whom we know to be his entire friend and much con<g ref="char:EOLhyphen"/>cerned for his repute? or <hi>breeding</hi> to fall up<g ref="char:EOLhyphen"/>on a diſcourſe, which we find unpleaſant to one of the company? If therefore the re<g ref="char:EOLhyphen"/>verence we owe to God exceed the ſtrongeſt
+<pb n="28" facs="tcp:44351:16"/>
+paſsion we can cheriſh for the deareſt rela<g ref="char:EOLhyphen"/>tion here on earth, what a barbarous thing muſt it be to mock at anothers devotion? which as often as we undervalue, ſo many arrows we ſtrike into his ſoul. And one part of the trouble which a good man re<g ref="char:EOLhyphen"/>ceives in this caſe, is upon our account in charity to us, while he laments the conditi<g ref="char:EOLhyphen"/>tion vve are in, vvhile he deplores the terri<g ref="char:EOLhyphen"/>ble puniſhment vve muſt one day undergo. They were wont formerly to ſhew their di<g ref="char:EOLhyphen"/>ſtate of a profane ſpeech by rending their clothes; which if one ſhould do now as often as he hears any ſuch thing, we might ſometimes carry nothing but rags with us to bed. When therefore no other conſi<g ref="char:EOLhyphen"/>deration will prevail; if we pretend to un<g ref="char:EOLhyphen"/>derſtand the <hi>laws of Honour</hi> or the <hi>rules of con<g ref="char:EOLhyphen"/>verſation,</hi> in which we ſeem to delight ſo much: if we challenge a <hi>better breeding</hi> then meaner folks, or a more <hi>gentle nature;</hi> we muſt forbear this unhallovved kind of raillery vvhich offends as many ears as it pe<g ref="char:EOLhyphen"/>netrates.</p>
+            <p>
+               <pb n="29" facs="tcp:44351:16" rendition="simple:additions"/>Thus have I diſcharged what I propound<g ref="char:EOLhyphen"/>ed for my Subject: where if I have ſome<g ref="char:EOLhyphen"/>times argued from places leſs ſuitable to the aſſurance we may well demand for our Faith, it has been onely in compliance to them I would reclaim. I waved it for the preſent onely that I might expoſe the miſ<g ref="char:EOLhyphen"/>chiefs of thoſe vices taken barely in them<g ref="char:EOLhyphen"/>ſelves for the ſake of which they reject Re<g ref="char:EOLhyphen"/>ligion; hoping that if the ends of a world<g ref="char:EOLhyphen"/>ly policy could bring them off, they might afterwards do it of their own accord upon a more noble Principle.</p>
+            <p>There remains onely an humble advice in the Name of God, that we would con<g ref="char:EOLhyphen"/>tinue to beware the ſplitting upon theſe two Rocks, Debauchery and Profaneneſs: which we ought more carefully to decline at this time; for ſince there are ſo many addicted to them out of irreligion, we ſhall be in<g ref="char:EOLhyphen"/>terpreted to do ſo too: by which we ſacri<g ref="char:EOLhyphen"/>fice our own credit and unhappily confirm
+<pb n="30" facs="tcp:44351:17"/>
+them in their deſperate way; for they will think there are ſo many ſuffrages the more added to their ſide. They have been noted to gather Proſelytes as much as any Party whatever: and to dive into the mind of o<g ref="char:EOLhyphen"/>thers by diſcourſe whether they are not of the ſame bold opinion with themſelves; where<g ref="char:EOLhyphen"/>by it appears, they ſupport their timorous hearts more by their company, by their fellows in iniquity then any ſtrength in their Cauſe.</p>
+            <p>And that we may be the better armed let us novv vvhilſt this ſolemn Exerciſe has compoſed our thoughts: vvhilſt no tempta<g ref="char:EOLhyphen"/>tion hovers before our eyes duly perpend theſe things; and if ſatisfied in the truth of them as ſurely we muſt, let us uſe the ſame Method the Mathematicians do: who ha<g ref="char:EOLhyphen"/>ving once proved a propoſition do not ex<g ref="char:EOLhyphen"/>amine it again as often as they have occaſi<g ref="char:EOLhyphen"/>on to apply it, but ever after take it for a Maxime and build other Theoremes upon it. So here alſo being already convinced
+<pb n="31" facs="tcp:44351:17" rendition="simple:additions"/>
+let us ſet an unmoveable Rule for our whole life. Let not any cajoling pleaſure reduce us to an uncertainty, or to diſpute the caſe again: for then vve are ſure to be over<g ref="char:EOLhyphen"/>throvvn. If once vve be ſo eaſie as to ad<g ref="char:EOLhyphen"/>mit any ſin to plead for it ſelf, by its plauſible and fawning excuſes it vvill in<g ref="char:EOLhyphen"/>fallibly overcome. There is a great deal of Mechaniſm in the body; vvhen a pleaſant object is preſented, there ariſes a tumult vvithin us vvhether vve vvill or no: the unruly ſpirits flie in purſuance of it and op<g ref="char:EOLhyphen"/>preſs vvith their numbers the ſeat of the Underſtanding; ſo that vve cannot then fairly deliberate or frame an exact ſcrutiny, but muſt move upon ſome judgement vve have formerly made. We have all experi<g ref="char:EOLhyphen"/>ence hovv much a fit of anger does tranſ<g ref="char:EOLhyphen"/>port us beyond the limits of diſcretion: each <hi>strong inclination</hi> is as truly a paſsion and does debauch our reaſon as much, though the ſame violence does not outvvard<g ref="char:EOLhyphen"/>ly break forth. Let us therefore at any un<g ref="char:EOLhyphen"/>lawful opportunity not <hi>parly</hi> but <hi>command.</hi>
+               <pb n="32" facs="tcp:44351:18"/>
+Let us not be ruled by the thoughts which are then ſuggeſted to us, but ſummon into our mind the apprehenſions we have had in ſuch a place and at ſuch a time as this.</p>
+            <p>In a word, let us remember the Scripture almoſt always denotes Religion by <hi>the fear of the Lord,</hi> by the <hi>fearing of his Name,</hi> which is for that cauſe ſtiled the <hi>beginning of Wiſ<g ref="char:EOLhyphen"/>dome;</hi> and that Reverence here is like <hi>mo<g ref="char:EOLhyphen"/>deſty</hi> in <hi>manners,</hi> which if we once diſcard, no bounds will ever after contain us.</p>
+            <closer>Now to Almighty God, the Father, Son, and holy Spirit, be aſcribed all Honour and Praiſe for ever and ever. <hi>Amen.</hi>
+            </closer>
+         </div>
+         <div type="appendix">
+            <pb facs="tcp:44351:18" rendition="simple:additions"/>
+            <p>I cannot forbear by way of Appendix to ſubjoyn the tranſlation of that moſt excel<g ref="char:EOLhyphen"/>lent paſſage cited in Greek, <hi>p.</hi> 12. out of <hi>Plato de leg.</hi> where he thus accoſts the young hectoring Atheiſt.</p>
+            <q>
+               <p>My ſon, you are yet but a young man: In proceſs of time you will come to change for the quite contrary many of thoſe Opinions you now eſpouſe. Stay therefore till then, before you determine of great affairs; and the greateſt of all, which perhaps you imagine not, is the framing of a right Notion con<g ref="char:EOLhyphen"/>cerning the gods, becauſe on this depends the choice of a Wicked or a Vertuous life. Now I'le diſcover one thing to you which I may truly enough affirm: And it is this; You and your Camerades are not the firſt nor the onely perſons which have had this deſperate Sentiment concerning the gods. There have been always more or leſs, thoſe that have fallen into this diſeaſe. But I may tell you what has happened to moſt of them;
+<pb facs="tcp:44351:19"/>
+Never did any take up in his youth the denial of the Exiſtence of a God, that carried the ſame mind with him to his declining age.</p>
+            </q>
+            <p>Thoſe Verſes of <hi>Laertius,</hi> cited <hi>p.</hi> 13. up<g ref="char:EOLhyphen"/>on <hi>Bion</hi> the Atheiſt, who falling ſick in his old age applied himſelf in Prayers and Sa<g ref="char:EOLhyphen"/>crifices to the gods, whom he had always be<g ref="char:EOLhyphen"/>fore derided; may thus be rendred.</p>
+            <q>
+               <lg>
+                  <l>A Fool, to think th' Existence of the gods</l>
+                  <l>Could for a price be bought or ſold:</l>
+                  <l>As if forſooth they onely then ſhould Be</l>
+                  <l>When <hi>Bion</hi> pleaſed ſo to hold.</l>
+               </lg>
+            </q>
+            <pb facs="tcp:44351:19" rendition="simple:additions"/>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
